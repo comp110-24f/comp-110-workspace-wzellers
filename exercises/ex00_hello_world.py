@@ -1,1 +1,3 @@
-__author__: Will
+__author__ = 730736640
+
+print(type(1))
